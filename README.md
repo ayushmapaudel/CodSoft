@@ -1,4 +1,4 @@
-# Titanic Survival Analysis 🚢
+# Titanic Survival Analysis 
 
 This project analyzes survival patterns on the Titanic dataset using Python, Pandas, and NumPy.  
 I performed data cleaning, exploratory data analysis (EDA), feature engineering, and basic modeling to understand the factors affecting survival chances.
