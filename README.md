@@ -29,7 +29,7 @@ A simple machine learning notebook that predicts future sales using regression t
 📁 File
 	•	Sales Prediction.ipynb: Jupyter notebook containing the entire project.
 
-Movie Data Analysis
+# Movie Data Analysis
 
 Analyzes patterns in movie datasets using Python. Focuses on data cleaning, exploratory data analysis (EDA), and visualization to uncover insights into trends like genre popularity, revenue, and ratings.
 
