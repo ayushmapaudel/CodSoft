@@ -20,4 +20,18 @@ I performed data cleaning, exploratory data analysis (EDA), feature engineering,
 ## Dataset
 - [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic/data)
 
+# Sales Prediction Analysis 
+A simple machine learning notebook that predicts future sales using regression techniques.
+
+🚀 Features
+	•	Data preprocessing
+	•	Exploratory data analysis (EDA)
+	•	Model training and evaluation
+
+🛠️ Tech Used
+	•	Python
+	•	Pandas, Matplotlib, Scikit-learn
+
+📁 File
+	•	Sales Prediction.ipynb: Jupyter notebook containing the entire project.
 
