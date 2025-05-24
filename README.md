@@ -1,24 +1,18 @@
 # Titanic Survival Analysis 
 
-This project analyzes survival patterns on the Titanic dataset using Python, Pandas, and NumPy.  
-I performed data cleaning, exploratory data analysis (EDA), feature engineering, and basic modeling to understand the factors affecting survival chances.
+Analyzes survival patterns in the Titanic dataset with Python, focusing on data cleaning, EDA, feature engineering, and basic modeling.
 
-## Tools Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn (for EDA visuals)
+🛠️ Tools Used
+	•	Python
+	•	Pandas, NumPy
+	•	Matplotlib, Seaborn
 
-## Project Highlights
-- Performed data cleaning and preprocessing on the Titanic dataset, including handling missing values and encoding categorical variables.
-- Conducted exploratory data analysis (EDA) to uncover insights about passenger demographics and survival rates.
-- Created visualizations to analyze relationships between features such as Age, Fare, Passenger Class, and Survival outcomes.
-- Prepared the dataset for potential further analysis or machine learning applications.
+📌 Highlights
+	•	Cleaned and preprocessed the dataset
+	•	Explored passenger demographics and survival trends
+	•	Visualized key features like Age, Fare, and Passenger Class
+	•	Engineered features for further analysis or modeling
 
-
-## Dataset
-- [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic/data)
 
 # Sales Prediction Analysis 
 A simple machine learning notebook that predicts future sales using regression techniques.
